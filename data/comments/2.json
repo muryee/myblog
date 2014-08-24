@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "username": "test2",
+  "body": "helloworlds",
+  "isPrivate": false,
+  "createdAt": "2014-08-22T08:38:48.466Z",
+  "updatedAt": "2014-08-22T08:38:48.466Z",
+  "postId": "1"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "username": "test",
+  "password": "4740d32d93afb383218c1c5c285e1eef9eeaba3d93dc5c03ff6f31451b2a3f2c6cdfea42e13e04394073728c244f6d4ccc62e1dc3229e74b54123a5b4b853ffc",
+  "fullname": "test111",
+  "intro": "first test!",
+  "icon": "/images/users/default.png",
+  "color": "",
+  "isAdmin": "",
+  "createdAt": "2014-08-22T08:00:27.560Z",
+  "updatedAt": "2014-08-22T08:00:27.560Z"
+}
